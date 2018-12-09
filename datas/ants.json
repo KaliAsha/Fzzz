@@ -1,0 +1,90 @@
+{
+    "Ouv": {
+        "TDP": 60,
+        "Food": 5
+    },
+    "JSN": {
+        "TDP": 300,
+        "Attack": 3,
+        "Defence": 2,
+        "Life": 8,
+        "Food": 16
+    },
+    "SN": {
+        "TDP": 450,
+        "Attack": 5,
+        "Defence": 4,
+        "Life": 10,
+        "Food": 20
+    },
+    "NE": {
+        "TDP": 570,
+        "Attack": 7,
+        "Defence": 6,
+        "Life": 13,
+        "Food": 26
+    },
+    "JS": {
+        "TDP": 740,
+        "Attack": 10,
+        "Defence": 9,
+        "Life": 16,
+        "Food": 30
+    },
+    "S": {
+        "TDP": 1000,
+        "Attack": 15,
+        "Defence": 14,
+        "Life": 20,
+        "Food": 36
+    },
+    "C": {
+        "TDP": 1410,
+        "Attack": 1,
+        "Defence": 25,
+        "Life": 30,
+        "Food": 70
+    },
+    "A": {
+        "TDP": 1440,
+        "Attack": 30,
+        "Defence": 15,
+        "Life": 10,
+        "Food": 30
+    },
+    "AE": {
+        "TDP": 1520,
+        "Attack": 35,
+        "Defence": 18,
+        "Life": 12,
+        "Food": 34
+    },
+    "SE": {
+        "TDP": 1450,
+        "Attack": 24,
+        "Defence": 23,
+        "Life": 27,
+        "Food": 44
+    },
+    "Tk": {
+        "TDP": 1860,
+        "Attack": 55,
+        "Defence": 1,
+        "Life": 35,
+        "Food": 100
+    },
+    "T": {
+        "TDP": 2740,
+        "Attack": 50,
+        "Defence": 50,
+        "Life": 50,
+        "Food": 80
+    },
+    "TE": {
+        "TDP": 2740,
+        "Attack": 55,
+        "Defence": 55,
+        "Life": 55,
+        "Food": 90
+    }
+}

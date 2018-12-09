@@ -1,0 +1,36 @@
+{
+  "name": "@kaliasha/fzzz",
+  "version": "0.1.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliAsha/Fzzz.git"
+  },
+  "keywords": [
+    "fzzz"
+  ],
+  "author": "KaliAsha <kaliasha.kali@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaliAsha/Fzzz/issues"
+  },
+  "homepage": "https://github.com/KaliAsha/Fzzz#readme",
+  "description": "",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
